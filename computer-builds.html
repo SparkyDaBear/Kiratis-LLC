@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Custom computer builds with inventory updated from CSV.">
+  <title>Computer Builds | Kiratis LLC</title>
+  <link rel="stylesheet" href="styles.css">
+  <script src="script.js" defer></script>
+</head>
+<body data-page="computer-builds">
+  <div class="page-sheen page-sheen-one" aria-hidden="true"></div>
+  <div class="page-sheen page-sheen-two" aria-hidden="true"></div>
+
+  <header class="site-header">
+    <a class="brand" href="index.html">
+      <span class="brand-mark">K</span>
+      <span data-site-brand>Kiratis LLC</span>
+    </a>
+    <nav class="site-nav" aria-label="Primary">
+      <a href="consulting.html">Consulting</a>
+      <a href="junk-removal.html">Junk Removal</a>
+      <a href="computer-builds.html" aria-current="page">Computer Builds</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero page-hero">
+      <span class="eyebrow">Inventory-driven builds</span>
+      <h1>Custom computers with listings that update from CSV.</h1>
+      <p class="lede">This page is set up so future inventory updates can come from a single CSV file under the data folder.</p>
+      <div class="button-row">
+        <a class="button button-primary" href="contact.html">Ask about a build</a>
+        <a class="button button-secondary" href="index.html">Back to home</a>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="section-heading">
+        <span class="eyebrow">Available systems</span>
+        <h2>First-pass inventory</h2>
+        <p>These cards will populate from <strong>data/computer-builds.csv</strong>.</p>
+      </div>
+      <div class="build-grid" data-builds>
+        <article class="build-card glass-card">
+          <h3>Loading builds...</h3>
+          <p>The inventory will render once the CSV is available.</p>
+        </article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer glass-card">
+    <div>
+      <strong data-site-brand>Kiratis LLC</strong>
+      <p data-site-tagline>Science, service, and systems.</p>
+    </div>
+    <div class="footer-links">
+      <a href="mailto:hello@kiratisllc.com" data-contact-email>Email</a>
+      <a href="contact.html">Contact</a>
+    </div>
+  </footer>
+</body>
+</html>

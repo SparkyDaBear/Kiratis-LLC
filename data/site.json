@@ -1,0 +1,12 @@
+{
+  "brand": "Kiratis LLC",
+  "tagline": "Science, service, and systems.",
+  "heroTitle": "Biophysical consulting, local services, and custom systems.",
+  "heroDescription": "A single clear site for technical consulting, State College junk removal, and inventory-driven computer builds.",
+  "primaryNavigation": [
+    { "label": "Consulting", "href": "consulting.html" },
+    { "label": "Junk Removal", "href": "junk-removal.html" },
+    { "label": "Computer Builds", "href": "computer-builds.html" },
+    { "label": "Contact", "href": "contact.html" }
+  ]
+}

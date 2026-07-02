@@ -1,0 +1,13 @@
+{
+  "email": "hello@kiratisllc.com",
+  "phone": "+1 814 555 0124",
+  "phoneDial": "+18145550124",
+  "location": "State College, PA",
+  "hours": "By appointment",
+  "preferredResponse": "Email is the best first contact for consulting, junk removal, and build inquiries.",
+  "serviceRouting": [
+    "Consulting",
+    "Junk removal",
+    "Computer builds"
+  ]
+}

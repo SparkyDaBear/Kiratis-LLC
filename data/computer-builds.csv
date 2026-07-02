@@ -1,0 +1,4 @@
+name,category,price,cpu,gpu,ram,storage,condition,availability,description,image,notes
+"Atlas Workstation","Workstation",1499,"AMD Ryzen 9 7900","NVIDIA RTX 4060",64GB,"2TB NVMe SSD","New","Available","Quiet workstation for modeling, analysis, and demanding multitasking.",,"Good fit for scientific workflows and content creation."
+"Vector Gaming Tower","Gaming",1199,"Intel Core i5-14600K","NVIDIA RTX 4070 Super",32GB,"1TB NVMe SSD","New","Available","Balanced gaming build with room for streaming and creative work.",,"Strong 1440p performance."
+"Pulse Compact Build","Compact",899,"AMD Ryzen 5 7600","Radeon RX 7600",32GB,"1TB NVMe SSD","New","Available","Space-saving system for everyday use, schoolwork, and light creation.",,"Small footprint and easy maintenance."
