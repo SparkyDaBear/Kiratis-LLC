@@ -13,9 +13,9 @@
     <stop offset="1" stop-color="#F4EFE5" stop-opacity="0"/>
   </radialGradient>
 </defs>
-<rect width="1440" height="720" fill="#F4EFE5"/>
-<path d="M118 551 C258 466 376 504 505 424 C634 345 747 139 953 162 C1099 178 1218 282 1326 238 C1366 222 1390 192 1419 146 L1440 720 H0 V617 C39 598 78 575 118 551Z" fill="url(#washA)" opacity="0.9"/>
-<ellipse cx="815" cy="314" rx="410" ry="214" fill="url(#washB)"/>
+<circle cx="330" cy="214" r="120" fill="url(#washA)" opacity="0.18"/>
+<ellipse cx="1138" cy="286" rx="190" ry="124" fill="url(#washB)" opacity="0.18"/>
+<ellipse cx="635" cy="575" rx="270" ry="90" fill="url(#washA)" opacity="0.14"/>
 <g fill="none" stroke-linecap="round" stroke-linejoin="round">
   <circle cx="728" cy="335" r="118" stroke="#263245" stroke-width="2.7" opacity=".75"/>
   <circle cx="728" cy="335" r="82" stroke="#A89C8C" stroke-width="1.7" stroke-dasharray="2 16" opacity=".7"/>

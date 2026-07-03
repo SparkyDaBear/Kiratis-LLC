@@ -12,36 +12,52 @@
   <div class="page-sheen page-sheen-one" aria-hidden="true"></div>
   <div class="page-sheen page-sheen-two" aria-hidden="true"></div>
 
-  <header class="site-header">
-    <a class="brand" href="index.html">
-      <img src="assets/logos/logo-mark.svg" alt="Kiratis LLC mark">
-      <span data-site-brand>Kiratis LLC</span>
-    </a>
-    <nav class="site-nav" aria-label="Primary">
-      <a href="consulting.html">Consulting</a>
-      <a href="junk-removal.html">Junk Removal</a>
-      <a href="computer-builds.html">Computer Builds</a>
-      <a href="contact.html">Contact</a>
-    </nav>
-  </header>
+  <div class="app-shell">
+    <aside class="sidebar">
+      <a class="brand sidebar-brand" href="index.html">
+        <img src="assets/logos/logo-mark.svg?v=2" alt="Kiratis LLC mark">
+        <span data-site-brand>Kiratis LLC</span>
+      </a>
+      <p class="sidebar-kicker">Science, service, and systems.</p>
+      <nav class="sidebar-nav" aria-label="Primary">
+        <a href="consulting.html">Consulting</a>
+        <a href="junk-removal.html">Junk Removal</a>
+        <a href="computer-builds.html">Computer Builds</a>
+        <a href="contact.html">Contact</a>
+      </nav>
+      <div class="sidebar-block">
+        <span class="sidebar-label">Focus</span>
+        <p>Warm, earthy, and editorial. Minimalist layout with living-painting visuals.</p>
+      </div>
+      <div class="sidebar-block sidebar-note">
+        <span class="sidebar-label">Start here</span>
+        <a href="consulting.html">Consulting first</a>
+      </div>
+    </aside>
 
-  <main>
-    <section class="hero hero-split">
-      <div class="hero-copy">
-        <span class="eyebrow">Modern science with artistic polish</span>
-        <h1>Biophysical consulting, local services, and custom systems in one clear site.</h1>
-        <p class="lede">Kiratis LLC blends technical consulting for modeling and metadata work with practical junk removal and custom computer builds.</p>
-        <div class="button-row">
+    <div class="app-content">
+      <header class="site-header">
+        <div class="header-copy">
+          <span class="eyebrow">Modern science with artistic polish</span>
+          <h1>Biophysical consulting, local services, and custom systems in one clear site.</h1>
+        </div>
+        <div class="header-actions">
           <a class="button button-primary" href="consulting.html">Explore consulting</a>
           <a class="button button-secondary" href="contact.html">Request contact</a>
         </div>
+      </header>
+
+      <main>
+    <section class="hero hero-split">
+      <div class="hero-copy">
+        <p class="lede">Kiratis LLC blends technical consulting for modeling and metadata work with practical junk removal and custom computer builds.</p>
         <div class="inline-links">
           <a href="junk-removal.html">State College junk removal</a>
           <a href="computer-builds.html">Custom computer builds</a>
         </div>
       </div>
       <div class="hero-panel glass-card">
-        <img class="hero-art" src="assets/illustrations/hero/hero-astral-field.svg" alt="Abstract ancient science illustration with floating rings and atmospheric fields">
+        <img class="hero-art" src="assets/illustrations/hero/hero-astral-field.svg?v=2" alt="Abstract ancient science illustration with floating rings and atmospheric fields">
         <div class="panel-kicker">What this site covers</div>
         <div class="panel-stack">
           <article>
@@ -97,16 +113,18 @@
     </section>
   </main>
 
-  <footer class="site-footer glass-card">
-    <div>
-      <strong data-site-brand>Kiratis LLC</strong>
-      <p data-site-tagline>Science, service, and systems.</p>
+      <footer class="site-footer glass-card">
+        <div>
+          <strong data-site-brand>Kiratis LLC</strong>
+          <p data-site-tagline>Science, service, and systems.</p>
+        </div>
+        <div class="footer-links">
+          <a href="mailto:hello@kiratisllc.com" data-contact-email>Email</a>
+          <a href="tel:+18145550124" data-contact-phone>Phone</a>
+          <a href="contact.html">Contact page</a>
+        </div>
+      </footer>
     </div>
-    <div class="footer-links">
-      <a href="mailto:hello@kiratisllc.com" data-contact-email>Email</a>
-      <a href="tel:+18145550124" data-contact-phone>Phone</a>
-      <a href="contact.html">Contact page</a>
-    </div>
-  </footer>
+  </div>
 </body>
 </html>
