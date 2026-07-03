@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-labelledby="title desc">
+<title id="title">Junk removal section illustration</title>
+<desc id="desc">Simplified hauling motif with bins, stacked shapes, and warm earthy colors.</desc>
+<rect width="520" height="360" rx="28" fill="#F4EFE5"/>
+<path d="M72 269 C139 237 199 249 258 225 C333 195 399 136 466 154 L466 318 H72 Z" fill="#D8CBB6" opacity=".55"/>
+<g stroke="#263245" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M125 167 H328 C348 167 361 181 366 199 L380 249 H104 L116 182 C118 173 120 167 125 167Z" fill="#C58C6D" stroke-width="4"/>
+  <path d="M358 197 H421 C437 197 451 207 458 222 L472 249 H380Z" fill="#9C6B4E" stroke-width="4"/>
+  <path d="M135 249 h336" fill="none" stroke-width="4"/>
+  <circle cx="174" cy="267" r="24" fill="#1F232B" stroke-width="4"/>
+  <circle cx="174" cy="267" r="9" fill="#A89C8C" stroke="none"/>
+  <circle cx="410" cy="267" r="24" fill="#1F232B" stroke-width="4"/>
+  <circle cx="410" cy="267" r="9" fill="#A89C8C" stroke="none"/>
+</g>
+<g stroke="#263245" stroke-linejoin="round" stroke-linecap="round" stroke-width="3">
+  <rect x="153" y="112" width="48" height="55" rx="6" fill="#D8CBB6"/>
+  <path d="M216 129 H278 L267 167 H228Z" fill="#A89C8C"/>
+  <rect x="287" y="96" width="45" height="71" rx="6" fill="#E8DDC8"/>
+  <path d="M130 149 C151 135 174 141 198 151" fill="none" stroke="#C9A86A" stroke-width="2.5" opacity=".85"/>
+</g>
+<g fill="none" stroke="#A89C8C" stroke-width="2" stroke-linecap="round" opacity=".75">
+  <path d="M97 97 C117 80 141 80 162 97"/>
+  <path d="M392 114 C419 96 442 102 457 122"/>
+  <path d="M73 289 h37 M448 290 h28"/>
+</g>
+</svg>

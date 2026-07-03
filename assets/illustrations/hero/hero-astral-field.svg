@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 720" role="img" aria-labelledby="title desc">
+<title id="title">Kiratis astral field hero illustration</title>
+<desc id="desc">A wide minimal ancient-science atmospheric illustration with floating rings, botanical arcs, and alchemical field lines.</desc>
+<defs>
+  <radialGradient id="washA" cx="50%" cy="48%" r="60%">
+    <stop offset="0" stop-color="#E8DDC8" stop-opacity="0.95"/>
+    <stop offset="0.55" stop-color="#D8CBB6" stop-opacity="0.42"/>
+    <stop offset="1" stop-color="#F4EFE5" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="washB" cx="62%" cy="40%" r="48%">
+    <stop offset="0" stop-color="#B7D7D3" stop-opacity="0.42"/>
+    <stop offset="0.7" stop-color="#D4A4A0" stop-opacity="0.16"/>
+    <stop offset="1" stop-color="#F4EFE5" stop-opacity="0"/>
+  </radialGradient>
+</defs>
+<rect width="1440" height="720" fill="#F4EFE5"/>
+<path d="M118 551 C258 466 376 504 505 424 C634 345 747 139 953 162 C1099 178 1218 282 1326 238 C1366 222 1390 192 1419 146 L1440 720 H0 V617 C39 598 78 575 118 551Z" fill="url(#washA)" opacity="0.9"/>
+<ellipse cx="815" cy="314" rx="410" ry="214" fill="url(#washB)"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="728" cy="335" r="118" stroke="#263245" stroke-width="2.7" opacity=".75"/>
+  <circle cx="728" cy="335" r="82" stroke="#A89C8C" stroke-width="1.7" stroke-dasharray="2 16" opacity=".7"/>
+  <ellipse cx="728" cy="335" rx="184" ry="57" stroke="#8DAA91" stroke-width="2.6" opacity=".8" transform="rotate(-14 728 335)"/>
+  <ellipse cx="728" cy="335" rx="203" ry="64" stroke="#6E87A3" stroke-width="1.8" opacity=".42" transform="rotate(29 728 335)"/>
+  <path d="M524 542 C608 474 655 401 680 330 C708 249 767 207 863 182" stroke="#6F8261" stroke-width="3" opacity=".55"/>
+  <path d="M524 542 C543 509 568 486 607 476" stroke="#6F8261" stroke-width="2" opacity=".55"/>
+  <path d="M580 476 C586 452 605 431 638 416" stroke="#6F8261" stroke-width="2" opacity=".55"/>
+  <path d="M633 414 C643 377 662 349 684 329" stroke="#6F8261" stroke-width="2" opacity=".55"/>
+  <path d="M923 536 C985 480 1027 417 1053 348 C1079 279 1114 230 1177 198" stroke="#D4A4A0" stroke-width="4" opacity=".38"/>
+  <path d="M261 280 C395 224 491 240 599 286" stroke="#6E87A3" stroke-width="1.5" opacity=".45" stroke-dasharray="4 14"/>
+  <path d="M882 406 C1024 352 1134 356 1254 410" stroke="#C9A86A" stroke-width="1.6" opacity=".55" stroke-dasharray="3 15"/>
+</g>
+<g fill="#263245" opacity=".8">
+  <circle cx="728" cy="335" r="6"/>
+  <circle cx="542" cy="292" r="4"/>
+  <circle cx="912" cy="284" r="4"/>
+  <circle cx="1037" cy="455" r="3"/>
+  <circle cx="438" cy="468" r="3"/>
+</g>
+<g fill="none" stroke="#C9A86A" stroke-width="2" stroke-linecap="round" opacity=".65">
+  <path d="M214 394 h42 M235 373 v42"/>
+  <path d="M1184 142 h32 M1200 126 v32"/>
+  <path d="M1126 585 h24 M1138 573 v24"/>
+</g>
+</svg>

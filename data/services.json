@@ -4,6 +4,8 @@
       "kicker": "Consulting",
       "title": "Biophysical modeling and metadata harmonization",
       "summary": "Protein folding simulations, statistical modeling, encoder-decoder pipelines, and tool development for teams that need deeper technical support.",
+      "image": "assets/illustrations/sections/section-consulting.svg",
+      "imageAlt": "Ancient-science consulting illustration",
       "href": "consulting.html",
       "linkText": "Open consulting page"
     },
@@ -11,6 +13,8 @@
       "kicker": "Local service",
       "title": "Junk removal in State College, PA",
       "summary": "Residential and small commercial pickup, cleanouts, and hauling with a simple quote process.",
+      "image": "assets/illustrations/sections/section-junk-removal.svg",
+      "imageAlt": "Junk removal illustration",
       "href": "junk-removal.html",
       "linkText": "Open junk removal page"
     },
@@ -18,6 +22,8 @@
       "kicker": "Inventory-driven",
       "title": "Custom computer builds",
       "summary": "Systems that can be updated from CSV so listings stay easy to maintain and publish.",
+      "image": "assets/illustrations/sections/section-computer-builds.svg",
+      "imageAlt": "Computer build illustration",
       "href": "computer-builds.html",
       "linkText": "Open builds page"
     }

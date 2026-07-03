@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 900" role="img" aria-labelledby="title desc">
+<title id="title">Atmospheric background wash</title>
+<desc id="desc">Soft vector background wash with muted parchment, sage, aqua, and dust rose fields.</desc>
+<defs>
+  <radialGradient id="g1" cx="28%" cy="35%" r="55%"><stop offset="0" stop-color="#E8DDC8" stop-opacity=".82"/><stop offset="1" stop-color="#F4EFE5" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g2" cx="76%" cy="28%" r="45%"><stop offset="0" stop-color="#B7D7D3" stop-opacity=".36"/><stop offset="1" stop-color="#F4EFE5" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g3" cx="68%" cy="76%" r="50%"><stop offset="0" stop-color="#D4A4A0" stop-opacity=".24"/><stop offset="1" stop-color="#F4EFE5" stop-opacity="0"/></radialGradient>
+  <radialGradient id="g4" cx="13%" cy="82%" r="42%"><stop offset="0" stop-color="#8DAA91" stop-opacity=".20"/><stop offset="1" stop-color="#F4EFE5" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1440" height="900" fill="#F4EFE5"/>
+<rect width="1440" height="900" fill="url(#g1)"/>
+<rect width="1440" height="900" fill="url(#g2)"/>
+<rect width="1440" height="900" fill="url(#g3)"/>
+<rect width="1440" height="900" fill="url(#g4)"/>
+<path d="M0 722 C166 653 289 736 460 650 C626 566 735 455 914 520 C1096 586 1224 586 1440 497 V900 H0Z" fill="#D8CBB6" opacity=".24"/>
+<path d="M0 113 C133 175 240 146 341 115 C458 79 574 91 706 144 C838 197 980 218 1123 160 C1255 108 1348 101 1440 126" fill="none" stroke="#A89C8C" stroke-width="1.5" opacity=".28"/>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 72" role="img" aria-labelledby="title desc">
+<title id="title">Node line divider</title>
+<desc id="desc">A delicate scientific-plate divider made from nodes, arcs, and line fragments.</desc>
+<rect width="900" height="72" fill="none"/>
+<path d="M95 36 C215 22 309 50 420 36 C533 22 642 21 805 36" fill="none" stroke="#8DAA91" stroke-width="2.2" stroke-linecap="round" opacity=".8"/>
+<path d="M96 36 H804" fill="none" stroke="#A89C8C" stroke-width="1" stroke-dasharray="2 13" stroke-linecap="round" opacity=".6"/>
+<g fill="#F4EFE5" stroke="#263245" stroke-width="2">
+  <circle cx="220" cy="28" r="7"/><circle cx="450" cy="34" r="10"/><circle cx="680" cy="27" r="7"/>
+</g>
+<circle cx="450" cy="34" r="4" fill="#C9A86A"/>
+<g fill="#A89C8C">
+  <circle cx="95" cy="36" r="3"/><circle cx="805" cy="36" r="3"/>
+</g>
+</svg>

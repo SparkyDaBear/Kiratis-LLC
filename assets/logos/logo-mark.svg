@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+<title id="title">Kiratis logo mark</title>
+<desc id="desc">A minimalist ancient-science seal made from concentric rings, a central K-shaped glyph, and a faded-gold accent node.</desc>
+
+<style>
+  .ink { stroke: #263245; }
+  .fill-ink { fill: #263245; }
+  .parchment { fill: #E8DDC8; }
+  .warm { fill: #F4EFE5; }
+  .sage { fill: #8DAA91; }
+  .clay { fill: #C58C6D; }
+  .gold { fill: #C9A86A; }
+  .slate { fill: #6E87A3; }
+  .stone { fill: #A89C8C; }
+  .no-fill { fill: none; }
+  .line { fill: none; stroke-linecap: round; stroke-linejoin: round; vector-effect: non-scaling-stroke; }
+</style>
+
+<rect width="256" height="256" rx="44" fill="#E8DDC8"/>
+<circle cx="128" cy="128" r="82" fill="none" stroke="#263245" stroke-width="7"/>
+<circle cx="128" cy="128" r="61" fill="none" stroke="#A89C8C" stroke-width="2.8" stroke-dasharray="1 12" stroke-linecap="round" opacity="0.9"/>
+<ellipse cx="128" cy="128" rx="96" ry="36" fill="none" stroke="#8DAA91" stroke-width="3" opacity="0.85" transform="rotate(-18 128 128)"/>
+<ellipse cx="128" cy="128" rx="96" ry="36" fill="none" stroke="#6E87A3" stroke-width="2.4" opacity="0.55" transform="rotate(34 128 128)"/>
+<path d="M104 74 C108 90 109 107 108 128 C107 150 106 168 102 184" fill="none" stroke="#263245" stroke-width="13" stroke-linecap="round"/>
+<path d="M151 80 C136 100 123 114 110 128 C127 139 144 155 159 177" fill="none" stroke="#263245" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="169" cy="75" r="8" fill="#C9A86A"/>
+<circle cx="169" cy="75" r="17" fill="none" stroke="#C9A86A" stroke-width="2" opacity="0.65"/>
+<path d="M55 128h18M183 128h18M128 55v18M128 183v18" stroke="#9C6B4E" stroke-width="3" stroke-linecap="round" opacity="0.65"/>
+</svg>

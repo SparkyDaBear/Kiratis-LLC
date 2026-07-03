@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title desc">
+<title id="title">Sun seal ornament</title>
+<desc id="desc">A compact symbolic ornament with rings, rays, and a muted gold center.</desc>
+<rect width="180" height="180" fill="none"/>
+<circle cx="90" cy="90" r="38" fill="#E8DDC8" stroke="#263245" stroke-width="3"/>
+<circle cx="90" cy="90" r="20" fill="none" stroke="#8DAA91" stroke-width="2"/>
+<circle cx="90" cy="90" r="8" fill="#C9A86A"/>
+<g stroke="#9C6B4E" stroke-width="2.4" stroke-linecap="round" opacity=".72">
+  <path d="M90 30v16M90 134v16M30 90h16M134 90h16"/>
+  <path d="M48 48l11 11M121 121l11 11M132 48l-11 11M59 121l-11 11"/>
+</g>
+<ellipse cx="90" cy="90" rx="58" ry="18" fill="none" stroke="#6E87A3" stroke-width="1.7" opacity=".5" transform="rotate(-19 90 90)"/>
+</svg>

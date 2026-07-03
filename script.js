@@ -126,6 +126,7 @@ function renderServiceCards(container, services) {
         <article class="service-card glass-card">
           <div>
             <span class="eyebrow">${service.kicker}</span>
+            ${service.image ? `<img class="service-card-art" src="${service.image}" alt="${service.imageAlt || service.title}">` : ''}
             <h3>${service.title}</h3>
             <p>${service.summary}</p>
           </div>

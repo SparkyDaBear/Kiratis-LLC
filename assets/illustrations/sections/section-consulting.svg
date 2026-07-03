@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 360" role="img" aria-labelledby="title desc">
+<title id="title">Consulting section illustration</title>
+<desc id="desc">Abstract molecular lattice and data-flow arcs in slate, sage, aqua, and deep ink.</desc>
+<rect width="520" height="360" rx="28" fill="#F4EFE5"/>
+<ellipse cx="268" cy="188" rx="194" ry="118" fill="#B7D7D3" opacity=".22"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M98 258 C170 145 240 204 304 104 C354 26 423 70 460 111" stroke="#6E87A3" stroke-width="3" opacity=".75"/>
+  <path d="M107 116 C178 163 246 146 318 200 C374 243 419 230 461 196" stroke="#8DAA91" stroke-width="3" opacity=".75"/>
+  <path d="M156 282 C195 232 248 227 289 255 C331 284 385 292 427 247" stroke="#263245" stroke-width="2.4" opacity=".75"/>
+  <path d="M156 116 L238 162 L305 105 L383 156 L454 111" stroke="#263245" stroke-width="2" opacity=".35"/>
+  <path d="M107 258 L196 220 L271 261 L356 209 L427 247" stroke="#263245" stroke-width="2" opacity=".28"/>
+</g>
+<g>
+  <circle cx="156" cy="116" r="11" fill="#6E87A3"/>
+  <circle cx="238" cy="162" r="8" fill="#8DAA91"/>
+  <circle cx="305" cy="105" r="12" fill="#C9A86A"/>
+  <circle cx="383" cy="156" r="8" fill="#B7D7D3" stroke="#263245" stroke-width="2"/>
+  <circle cx="454" cy="111" r="10" fill="#6E87A3"/>
+  <circle cx="107" cy="258" r="9" fill="#8DAA91"/>
+  <circle cx="196" cy="220" r="12" fill="#6E87A3"/>
+  <circle cx="271" cy="261" r="8" fill="#263245"/>
+  <circle cx="356" cy="209" r="12" fill="#8DAA91"/>
+  <circle cx="427" cy="247" r="9" fill="#C9A86A"/>
+</g>
+<g fill="none" stroke="#A89C8C" stroke-width="1.4" opacity=".55">
+  <path d="M79 68 H216 M79 91 H183 M79 114 H128"/>
+  <path d="M344 292 h88 M344 313 h58"/>
+</g>
+</svg>

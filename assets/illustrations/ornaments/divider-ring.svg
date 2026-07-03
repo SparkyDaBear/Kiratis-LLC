@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 96" role="img" aria-labelledby="title desc">
+<title id="title">Ring divider</title>
+<desc id="desc">Sparse divider with a central ring seal, dots, and short manuscript-like rays.</desc>
+<rect width="900" height="96" fill="none"/>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M70 48 H358" stroke="#A89C8C" stroke-width="2" opacity=".75"/>
+  <path d="M542 48 H830" stroke="#A89C8C" stroke-width="2" opacity=".75"/>
+  <circle cx="450" cy="48" r="24" stroke="#263245" stroke-width="2.5"/>
+  <circle cx="450" cy="48" r="12" stroke="#8DAA91" stroke-width="2"/>
+  <path d="M450 14 v12 M450 70 v12 M416 48 h12 M472 48 h12" stroke="#C9A86A" stroke-width="2.2"/>
+  <path d="M391 48h20M489 48h20" stroke="#263245" stroke-width="2"/>
+</g>
+<g fill="#A89C8C">
+  <circle cx="108" cy="48" r="3"/><circle cx="153" cy="48" r="2"/><circle cx="792" cy="48" r="3"/><circle cx="747" cy="48" r="2"/>
+</g>
+</svg>

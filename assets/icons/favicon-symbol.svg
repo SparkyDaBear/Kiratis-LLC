@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+<title id="title">Kiratis favicon symbol</title>
+<desc id="desc">Compact K sigil inside a circular seal.</desc>
+<rect width="64" height="64" rx="14" fill="#E8DDC8"/>
+<circle cx="32" cy="32" r="23" fill="none" stroke="#263245" stroke-width="3.2"/>
+<ellipse cx="32" cy="32" rx="28" ry="10" fill="none" stroke="#8DAA91" stroke-width="1.8" transform="rotate(-18 32 32)" opacity=".9"/>
+<path d="M25 17 C27 27 26 39 24 47" fill="none" stroke="#263245" stroke-width="5" stroke-linecap="round"/>
+<path d="M39 19 C35 25 31 29 25 33 C31 36 36 41 40 47" fill="none" stroke="#263245" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="43" cy="18" r="2.7" fill="#C9A86A"/>
+</svg>
